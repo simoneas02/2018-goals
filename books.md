@@ -14,15 +14,15 @@
 
 | Month | Book | Status |
 |---    |---   |:---:     |
-|  <s>Jan</s>  | <s>Como organizar sua vida finanaceira - Gustavo Cerbasi</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  <s>Feb</s>  | <s>Coletânea Front-end - Almir Filho/ Bernard de Luna/ Caio Gondim/ </br>Deivid Marques/ Diego Eis/ Eduardo Shiota/ Giovanni Keppelen/ </br>Jaydson Gomes/ Luiz Corte Real/ Reinado Ferraz/ Sérgio Lopes </s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  <s>Mar</s>  | <s>TED Talks - Chris Anderson</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  <s>Apr</s>  | <s>A Web Mobile - Sérgio Lopes</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-| <s>May</s>  | <s>You Don't Know JS: Up & Going - Kyle Simpson</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  <s>Jun</s>  | <s>You Don't Know JS: Scope & Closures - Kyle Simpson</s>  | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  <s>Jul</s>  | <s>HTML5 Entendndo e Executando - Maerk Pilgrim</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  <s>Aug</s>  | <s>Trabalhe 4 Horas por Semana - Timothy Ferriss</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  <s>Sep</s>  | <s>You Don't Know JS: this & Object Prototypes - Kyle Simpson</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg)|
+|  Jan  | Como organizar sua vida finanaceira - Gustavo Cerbasi | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Feb  | Coletânea Front-end - Almir Filho/ Bernard de Luna/ Caio Gondim/ </br>Deivid Marques/ Diego Eis/ Eduardo Shiota/ Giovanni Keppelen/ </br>Jaydson Gomes/ Luiz Corte Real/ Reinado Ferraz/ Sérgio Lopes  | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Mar  | TED Talks - Chris Anderson | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Apr  | A Web Mobile - Sérgio Lopes | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+| May  | You Don't Know JS: Up & Going - Kyle Simpson | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Jun  | You Don't Know JS: Scope & Closures - Kyle Simpson  | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Jul  | HTML5 Entendndo e Executando - Maerk Pilgrim |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Aug  | Trabalhe 4 Horas por Semana - Timothy Ferriss |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Sep  | You Don't Know JS: this & Object Prototypes - Kyle Simpson |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg)|
 |  Oct  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Nov  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Dec  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
