@@ -20,7 +20,7 @@
 ## Complete the projects started last year
 - Vanilla JS
     - [ ] [TODO JS](https://www.webpackbin.com/bins/-Ko_yZlfoG-g443hNkgX)
-    - [x] [List API Rest with JS](https://www.webpackbin.com/bins/-Koe__qmJeTgX9HJzJZJ)
+    - [ ] [List API Rest with JS](https://www.webpackbin.com/bins/-Koe__qmJeTgX9HJzJZJ)
 
 - ReactJS
     - [ ] [Alarm clock for developers](https://github.com/simoneas02/react-alarm-clock)
@@ -45,6 +45,8 @@
 <hr>
 
 ## Share my learning with the world
+[ ] Create a blog!
+
 
 ### Articles
 
@@ -60,6 +62,9 @@
 <hr>
 
 ## Personal Goals
+
+### Starting new job
+- [ ] I'm looking for new job where I can to pratice my new skills
 
 ### Health
 - [ ] [Running 10km for week](https://www.strava.com/athletes/14321912)
