@@ -45,7 +45,7 @@
 <hr>
 
 ## Share my learning with the world
-[ ] Create a blog!
+- [ ] [Create a blog - 🏹🗡🛡 A Dama do CSS 💁‍♀️](https://github.com/Damadocss/damadocss.github.io)
 
 
 ### Articles
