@@ -2,8 +2,8 @@
 
 ## 🌈 Dream big, set goals and take actions. Yes, we can do it!
 
-![starting image](image/starting.gif)
+![starting image](../image/starting.gif)
 
 I created this `log` to document my learnig history 🦄
 
-* [ ] [March](log/march.md)
+* [ ] [March](./log/march.md)

@@ -53,11 +53,23 @@
 
 ### ✍ Write
 
+* [English Tips](https://quizlet.com/_4l6cp4)
+
+### 🎬 Watch
+
+* [O maior erro que os brasileiros cometem ao falar inglês | Dica #1](https://www.youtube.com/watch?v=78lwO0aHFwQ&list=PLFJshFlF-r5l6UZFlw6DlbwqVy2Oe0EGp)
+
 ### 🎧 Listen
+
+* [Toolsday - CUBS #3: Preact CLI](http://www.toolsday.io/episodes/preact.html)
 
 ### 📖 Read
 
+* [THE NEW CSS LAYOUT](https://abookapart.com/products/the-new-css-layout)
+
 ### 🎤 Speak
+
+* [Cambly - 30 minute with native](https://www.cambly.com/english?lang=en)
 
 ---
 
