@@ -22,12 +22,12 @@
 
 ## Complete the projects started last year
 
-* Vanilla JS
+* [Vanilla JS](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
   * [ ] [TODO JS](https://www.webpackbin.com/bins/-Ko_yZlfoG-g443hNkgX)
   * [ ] [List API Rest with JS](https://www.webpackbin.com/bins/-Koe__qmJeTgX9HJzJZJ)
 
-* ReactJS
+* [ReactJS](https://reactjs.org/docs/hello-world.html)
 
   * [ ] [Alarm clock for developers](https://github.com/simoneas02/react-alarm-clock)
   * [ ] [React ES6 Reference](https://github.com/simoneas02/react-cheatsheet)
@@ -35,12 +35,21 @@
   * [ ] [Lista de Contratos](https://github.com/simoneas02/contracts-list)
   * [ ] [desafio-frontend](https://github.com/simoneas02/desafio-frontend)
 
-* Vue.js
+* [Vue.js](https://vuejs.org/v2/guide/)
+
   * [ ] [VUE TODO](https://github.com/simoneas02/vue-todo)
+
+* [Hexo.js](https://hexo.io/)
+  * [ ] [Create a blog - 🏹🗡🛡 A Dama do CSS 💁‍♀️](https://github.com/Damadocss/damadocss.github.io)
 
 <hr>
 
 ## Learning about CSS
+
+* [x] [Alignment: Flexbox](https://codepen.io/collection/AVpeRr/)
+* [x] [Linear Gradient](https://codepen.io/simoneas02/pen/bvBEYM)
+* [x] [Radial gradient](https://codepen.io/simoneas02/pen/PRbNJX?editors=1100)
+* [ ] [box-shadow: google chrome offline dino mini-game t-rex](https://codepen.io/simoneas02/pen/VXmKGp)
 
 <hr>
 
@@ -50,11 +59,17 @@
 
 ## Share my learning with the world
 
-* [ ] [Create a blog - 🏹🗡🛡 A Dama do CSS 💁‍♀️](https://github.com/Damadocss/damadocss.github.io)
-
 ### Articles
 
 ### Talks
+
+* [x] [Você precisa de um framework CSS?](https://speakerdeck.com/simoneas02/voce-precisa-de-um-framework-css-1) at [Fractal](http://fractaltecnologia.com.br/) in February 2018.
+* [x] [Mantendo sua CSS maneira e do 'BEM'](https://speakerdeck.com/simoneas02/mantendo-sua-css-maneira-e-do-bem) at [FEMUGPE](https://github.com/FEMUGPE/FEMUGPE) in March 2018.
+* [ ] [Montando layouts em um mini game chamado Browser](#) at [Front in Campinas](https://frontincampinas.com.br/) in May 2018.
+
+### Workshop
+
+* [x] [Descobrindo os poderes do mundo Front-end.](https://github.com/womenwhocoderecife/my-clock) at [Tech WomenDay](https://www.meetup.com/pt-BR/Women-Who-Code-Recife/events/248669188/?_xtd=gqFyqDY0ODgyNDgyoXCjd2Vi&from=ref) in February 2018.
 
 <hr>
 
@@ -68,17 +83,22 @@
 
 ### Starting new job
 
-* [ ] I'm looking for new job where I can to pratice my new skills
+* [x] I'm looking for new job where I can to pratice my new skills
 
 ### Health
 
 * [ ] [Running 10km for week](https://www.strava.com/athletes/14321912)
-* [ ] [Lose weight](#)
 
 ### Series
 
-* [ ] [Vikings](<https://pt.wikipedia.org/wiki/Vikings_(s%C3%A9rie_de_televis%C3%A3o)>)
-* [ ] [The Walking Dead](<https://pt.wikipedia.org/wiki/The_Walking_Dead_(s%C3%A9rie_de_televis%C3%A3o)>)
+* [ ] [Vikings](https://www.tvtime.com/en/show/260449)
+* [ ] [The Walking Dead](https://www.tvtime.com/en/show/153021)
+* [x] [Jessica Jones](https://www.tvtime.com/en/show/284190)
+* [ ] [Friends](https://www.tvtime.com/en/show/79168)
+* [ ] [La casa de papel](https://www.tvtime.com/en/show/327417)
+* [ ] [Silicon Valley](https://www.tvtime.com/en/show/277165)
+* [ ] [Game of Thrones](https://www.tvtime.com/en/show/121361)
+* [ ] [Rick and Morty](https://www.tvtime.com/en/show/275274)
 
 <hr>
 
