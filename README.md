@@ -65,7 +65,12 @@
 
 * [x] [Você precisa de um framework CSS?](https://speakerdeck.com/simoneas02/voce-precisa-de-um-framework-css-1) at [Fractal](http://fractaltecnologia.com.br/) in February 2018.
 * [x] [Mantendo sua CSS maneira e do 'BEM'](https://speakerdeck.com/simoneas02/mantendo-sua-css-maneira-e-do-bem) at [FEMUGPE](https://github.com/FEMUGPE/FEMUGPE) in March 2018.
-* [ ] [Montando layouts em um mini game chamado Browser](#) at [Front in Campinas](https://frontincampinas.com.br/) in May 2018.
+* [x] [It's me!!](https://speakerdeck.com/simoneas02/its-me) at [Code migas event](https://www.facebook.com/groups/codemigas/?ref=br_rs) in April 2018.
+* [x] [Montando layouts em um mini game chamado Browser](https://speakerdeck.com/simoneas02/montando-layouts-em-um-mini-game-chamado-browser-1) at [Front in Campinas](https://frontincampinas.com.br/) in May 2018.
+* [x] [It's me!!](https://speakerdeck.com/simoneas02/its-me-1) at [TC Talks #11 - Edição FrontEnd Week SP](https://www.facebook.com/trainingcenterbr/) in July 2018.
+* [x] [Front-end na vida real](https://speakerdeck.com/simoneas02/front-end-na-vida-real-1) at [Semana de Informática - IFPE Campus Jaboatão](https://www.even3.com.br/semanainformatica2018) in July 2018.
+* [x] [Experiência na China Simone e Willany pareando <3](https://speakerdeck.com/simoneas02/experiencia-na-china-simone-e-willany-pareando-3) at [VI Encontro Pyladies](https://www.sympla.com.br/encontro-pyladies__321697) in July 2018.
+* [x] [Montando layouts em um mini game chamado Browser](https://speakerdeck.com/simoneas02/montando-layouts-em-um-mini-game-2) at [Front in Vale](http://2018.frontinvale.com.br/) in August 2018.
 
 ### Workshop
 
